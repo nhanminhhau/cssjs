@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/EA35ky' target='_blank'><img src='http://www.diaockimoanh.com.vn/images/news/project/2017/Singa/duong-vao-singa-city.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/EA35ky' target='_blank'><img src='http://www.diaockimoanh.com.vn/images/news/project/2017/Singa/duong-vao-singa-city.jpg' width='500px'/><br/>Giá bán Mega City bình dương</a>. LH PKD Mega City 0909591878. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
